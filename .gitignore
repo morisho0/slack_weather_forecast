@@ -1,0 +1,13 @@
+.fontconfig/*
+!.fontconfig/.gitkeep
+.fonts/*
+!.fonts/.gitkeep
+phantomjs
+certifi*
+chardet*
+idna*
+PIL
+Pillow*
+requests*
+selenium*
+urllib3*
